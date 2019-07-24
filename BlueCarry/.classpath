@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="E:/Java/Libs/opencv_4.0.1/opencv/build/java/x64"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/imwxc/Desktop/webcam/bridj-0.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/imwxc/Desktop/webcam/slf4j-api-1.7.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/imwxc/Desktop/webcam/slf4j-nop-1.7.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/imwxc/Desktop/webcam/webcam-capture-0.3.12.jar"/>
+	<classpathentry kind="lib" path="E:/Java/Libs/opencv_4.0.1/opencv/build/java/opencv-410.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
